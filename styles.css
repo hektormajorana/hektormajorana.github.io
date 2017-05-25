@@ -1,0 +1,27 @@
+#container
+{
+	width:1000px;
+    position:relative;
+}
+
+#image
+{    
+    width: 1000px;
+    left:0;
+    top:0;
+}
+#text
+{
+    position:absolute;    
+    color:white;
+    font-size:40px;
+	font-family: 'Amatica SC', sans-serif;
+	width: 600px;
+    left:200px;
+    top:100px;
+}
+a
+{
+	font-family: 'Amatica SC', sans-serif;
+	color:Black;
+}
